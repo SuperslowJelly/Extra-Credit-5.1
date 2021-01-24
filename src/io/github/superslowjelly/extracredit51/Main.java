@@ -32,6 +32,7 @@ public class Main {
                 break;
             default:
                 output.append("errored! ...wait, what?");
+                break;
         }
 
         // Output.
